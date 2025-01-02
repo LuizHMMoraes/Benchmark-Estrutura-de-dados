@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735830802 source:/home/luiz/Desktop/TrabalhoFinalEstruturaDeDados/trabalhoFinal/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
